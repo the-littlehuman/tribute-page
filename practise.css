@@ -1,0 +1,56 @@
+body{
+    color: rgb(3, 3, 29);
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid mediumslateblue;
+    background-color: mistyrose;
+}
+
+.chicken{
+    background-image: url("./wallpapers-cats-hd.jpg");
+    background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.chicken .bread{
+    font-size: 10px;
+    font-family: cursive;
+    color: #000000; 
+}
+.Snacks ul li{ list-style: none}
+
+.butterfly{
+    color: #0f010f;
+    font-size: 30px;
+    font-family: monospace;
+}
+
+.chicken .heading{
+ text-align: center;
+}
+
+.home li{ list-style: none;
+    display: inline;
+}
+
+.home .nav-link{
+    text-decoration: none;
+    color:rgb(3, 3, 29);
+}
+
+.home .nav-link:hover{
+    color: white;
+    border: 1px solid #000000;
+    background-color: #000000;
+    padding: 3px 6px;
+    transition: ease-in 2s;
+    transition: ease-out 3s;
+}
+.home .nav-link:hover{
+
+}
